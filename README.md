@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mike Cebulski 👋
 
-<!--
-**mikecebul/mikecebul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio repository.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build and manage practical applications and digital systems that solve real-world business needs.
+
+## Apps I Created and Manage
+
+- **Bases**
+- **MI Drug Test**
+- **CVX Jr Golf**
+
+## Work I Support
+
+- **MDM (Mosyle)**
+- **Zoom Rooms**
+
+## Connect
+
+Thanks for stopping by. Feel free to explore my projects and reach out for collaboration.
