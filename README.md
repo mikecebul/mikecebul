@@ -8,7 +8,7 @@ I build and manage practical applications and digital systems that solve real-wo
 
 ## Apps I Created and Manage
 
-- **Bases**
+- **BASES**
 - **MI Drug Test**
 - **CVX Jr Golf**
 - **D21 Softball**
