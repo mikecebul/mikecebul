@@ -11,6 +11,9 @@ I build and manage practical applications and digital systems that solve real-wo
 - **Bases**
 - **MI Drug Test**
 - **CVX Jr Golf**
+- **D21 Softball**
+- **MIKECEBUL LLC**
+- **Find Any Meeting**
 
 ## Work I Support
 
